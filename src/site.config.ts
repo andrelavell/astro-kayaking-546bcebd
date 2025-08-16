@@ -1,7 +1,7 @@
 export const SITE = {
   title: 'kayaking',
   description: 'Explore kayaking tips, gear reviews, and destinations for every paddler. Dive into the world of kayaking with expert insights.',
-  url: 'https://example.com', // update me
+  url: 'https://astro-kayaking-546bcebd.netlify.app', // update me
   author: 'Astro World',
   authorTwitter: '',
   language: 'en',
